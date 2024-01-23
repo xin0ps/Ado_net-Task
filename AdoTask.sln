@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoTask", "AdoTask\AdoTask.csproj", "{C9E637CA-149E-479C-8FA2-BA53343425D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E637CA-149E-479C-8FA2-BA53343425D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E637CA-149E-479C-8FA2-BA53343425D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E637CA-149E-479C-8FA2-BA53343425D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E637CA-149E-479C-8FA2-BA53343425D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EA9731-E1D1-4DEA-B481-0E3A785E3805}
+	EndGlobalSection
+EndGlobal
